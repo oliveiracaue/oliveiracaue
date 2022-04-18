@@ -1,6 +1,4 @@
-# Hi, i'm Cauê Oliveira. Web Developer!
-
-## Welcome to my profile
+# Hi, i'm Cauê Oliveira. Web Developer! :v:
 
 <br>
 
