@@ -30,7 +30,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; align-items: center; width: 100%">
   <img style="margin: 0.55rem" src="https://img.shields.io/badge/vscode-222222?&style=for-the-badge&logo=visual-studio-code&logoColor=0076c6&labelColor=000000" alt="VS Code"/>
   <img style="margin: 0.55rem" src="https://img.shields.io/badge/html-222222?&style=for-the-badge&logo=html5&labelColor=000000" alt="HTML"/>
   <img style="margin: 0.55rem" src="https://img.shields.io/badge/css-222222?&style=for-the-badge&logo=css3&logoColor=1a6fb4&labelColor=000000" alt="CSS"/>
