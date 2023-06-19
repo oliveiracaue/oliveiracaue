@@ -12,7 +12,7 @@
   <a href="https://linkedin.com/in/oliveiradev" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-222222?&style=for-the-badge&logo=linkedin&labelColor=000000&logo_color=0a66c2" alt="Linkedin">
   </a>
-  <a href="https://instagram.com/oliveiracaue93" target="_blank">
+  <a href="https://instagram.com/oliveiradev.caue" target="_blank">
     <img src="https://img.shields.io/badge/instagram-222222?&style=for-the-badge&logo=instagram&labelColor=000000" alt="Instagram">
   </a>
 </div>
